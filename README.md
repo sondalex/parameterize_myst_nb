@@ -20,3 +20,9 @@ pip install ipykernel
 ```
 python -m ipykernel install --user --name="example" --display-name="example"
 ```
+
+## Build docs
+
+```
+cd docs && make html
+```
