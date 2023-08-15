@@ -5,11 +5,12 @@ This repo is a minimal reproducible example of how to parameterize notebooks and
 
 ## Dependencies
 
+```bash
 pip install jupytext
 pip install sphinx
 pip install papermill
 pip install myst-nb
-
+```
 
 ## Set Up Jupyter kernel
 
